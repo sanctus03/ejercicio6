@@ -1,3 +1,5 @@
+#EJERCICIO 6
+
 import statistics as st
 data = list()
 for indice in range(3):
